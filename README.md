@@ -1,10 +1,10 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 
-## :evergreen_tree: three.js iphone demo 
+## :evergreen_tree: three.js iphone demo
 
 A small threejs demo in Gatsby showing a video playing on an Iphone model.
 
-![demo-gif](https://github.com/casvanluijtelaar/threejs-iphone/blob/master/demo.gif)
+![demo-gif](/demo.gif)
 
 **installation**
 
