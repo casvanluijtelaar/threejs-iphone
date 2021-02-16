@@ -6,6 +6,8 @@
 
 A small threejs demo in Gatsby showing a video playing on an Iphone model.
 
+![demo-gif](https://github.com/casvanluijtelaar/threejs-iphone/blob/master/demo.gif)
+
 **installation**
 
 ```shell
